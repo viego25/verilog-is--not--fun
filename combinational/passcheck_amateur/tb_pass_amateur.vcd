@@ -1,0 +1,39 @@
+$date
+	Tue Jul 14 10:36:54 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module tb_pass_amateur $end
+$var wire 1 ! y $end
+$var reg 8 " g [7:0] $end
+$var reg 8 # p [7:0] $end
+$scope module uut $end
+$var wire 8 $ g [7:0] $end
+$var wire 8 % p [7:0] $end
+$var wire 1 ! y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+b1001110 %
+b0 $
+b1001110 #
+b0 "
+0!
+$end
+#10
+b1101000 "
+b1101000 $
+#20
+1!
+b1001110 "
+b1001110 $
+#30
